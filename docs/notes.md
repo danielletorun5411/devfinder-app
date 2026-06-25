@@ -49,3 +49,4 @@ Notes and usage details for devfinder-app.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
